@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="91px" height="64px" viewBox="0 0 91 64" version="1.1">
+  <title>AE600CBB-5F60-4C21-8D05-A61A1EAB46C8</title>
+  <g id="v2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="Geek-Support_LP-Biz_Rev-1" transform="translate(-338.000000, -970.000000)">
+      <g id="Group-34" transform="translate(198.000000, 941.000000)">
+        <g id="ICON-WIFI" transform="translate(141.647872, 30.500000)">
+          <rect id="Rectangle" stroke="#491D72" stroke-width="3" x="0" y="42.5" width="87" height="18" rx="3"></rect>
+          <path d="M0.0517110101,44.484309 L8.98140991,35.3972837 C9.54545019,34.823306 10.3164416,34.5 11.1211726,34.5 L76.2286228,34.5 C77.047936,34.5 77.8316026,34.8350929 78.3976234,35.4274565 L87.051711,44.484309 L87.051711,44.484309" id="Path-34" stroke="#491D72" stroke-width="3" stroke-linecap="round"></path>
+          <line x1="15.5" y1="20" x2="15.5" y2="33.5" id="Path-35" stroke="#491D72" stroke-width="3" stroke-linecap="round"></line>
+          <circle id="Oval" fill="#17A7A7" cx="11.5" cy="51.5" r="2.5"></circle>
+          <circle id="Oval-Copy" fill="#17A7A7" cx="19.625" cy="51.5" r="2.5"></circle>
+          <circle id="Oval-Copy" fill="#491D72" cx="15.5" cy="13" r="2.5"></circle>
+          <line x1="71.5" y1="20" x2="71.5" y2="33.5" id="Path-35" stroke="#491D72" stroke-width="3" stroke-linecap="round"></line>
+          <circle id="Oval-Copy" fill="#491D72" cx="71.5" cy="13" r="2.5"></circle>
+          <circle id="Oval-Copy-2" fill="#17A7A7" cx="27.75" cy="51.5" r="2.5"></circle>
+          <g id="Group-35" transform="translate(29.047039, 0.000000)" stroke="#17A7A7" stroke-linecap="round" stroke-width="3">
+            <path d="M29.5427767,5.53342367 C25.659877,2.09052644 20.5505531,0 14.9529606,0 C9.17910063,0 3.92474447,2.22426024 0,5.86267285" id="Oval"></path>
+            <path d="M19.2503711,18.4426637 C18.3779841,16.9798363 16.7798989,16 14.9529606,16 C13.1261214,16 11.5281104,16.9797301 10.655692,18.4424258" id="Oval"></path>
+            <path d="M24.6201086,12.8080961 C22.2404532,10.1631688 18.7909338,8.5 14.9529606,8.5 C11.262573,8.5 7.93133835,10.037717 5.56504209,12.5073656" id="Oval"></path>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

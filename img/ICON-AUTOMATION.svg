@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="107px" height="104px" viewBox="0 0 107 104" version="1.1">
+  <title>0FD35130-10A6-4EA9-AD46-A05CC18450B4</title>
+  <defs>
+    <linearGradient x1="0.00683854202%" y1="50.0012062%" x2="100%" y2="50.0012062%" id="linearGradient-1">
+      <stop stop-color="#7ED4BB" offset="0%"></stop>
+      <stop stop-color="#A2E9C8" offset="42%"></stop>
+      <stop stop-color="#BAF7D0" offset="78%"></stop>
+      <stop stop-color="#C3FCD3" offset="100%"></stop>
+    </linearGradient>
+    <linearGradient x1="0%" y1="50.0077006%" x2="100.010433%" y2="50.0077006%" id="linearGradient-2">
+      <stop stop-color="#328B91" offset="0%"></stop>
+      <stop stop-color="#17A7A7" offset="4%"></stop>
+      <stop stop-color="#6CBDAE" offset="47.2891854%"></stop>
+      <stop stop-color="#8DD9BE" offset="82%"></stop>
+      <stop stop-color="#99E4C4" offset="100%"></stop>
+    </linearGradient>
+    <linearGradient x1="-5.23557805e-15%" y1="50%" x2="100%" y2="50%" id="linearGradient-3">
+      <stop stop-color="#06475C" offset="0%"></stop>
+      <stop stop-color="#185D6B" offset="15%"></stop>
+      <stop stop-color="#17A7A7" offset="73%"></stop>
+      <stop stop-color="#70CAB5" offset="100%"></stop>
+    </linearGradient>
+    <linearGradient x1="1.47931116e-14%" y1="49.9770695%" x2="100%" y2="49.9770695%" id="linearGradient-4">
+      <stop stop-color="#B3F3CD" offset="0%"></stop>
+      <stop stop-color="#DCEFDF" offset="100%"></stop>
+    </linearGradient>
+  </defs>
+  <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="Geek-Support_LP-1_1" transform="translate(-1087.000000, -3521.000000)" fill-rule="nonzero">
+      <g id="HOW-WE-KEEP-PRICES-LOW" transform="translate(105.000000, 3370.000000)">
+        <g id="AUTOMATION" transform="translate(860.000000, 151.000000)">
+          <g id="ICON-AUTOMATION" transform="translate(122.000000, 0.000000)">
+            <path d="M82.6166624,0 L41.195364,0 C36.9954248,0.0124006866 33.5937838,3.41215112 33.5813763,7.6097561 L33.5813763,96.3902439 C33.5937838,100.587849 36.9954248,103.987599 41.195364,104 L99.3860122,104 C103.585951,103.987599 106.987592,100.587849 107,96.3902439 L107,24.0310728 L82.6166624,0 Z" id="Path" fill="url(#linearGradient-1)"></path>
+            <polygon id="Path" fill="#B0D8C8" style="mix-blend-mode: multiply;" points="83.6082631 19.5625679 107 43.3176522 107 24.0310728"></polygon>
+            <rect id="Rectangle" fill="#FFFFFF" x="53.3707153" y="18.0948107" width="33.8474767" height="5.05811681" rx="2.115"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" x="42.3099735" y="28.9963571" width="55.9639397" height="5.05811681" rx="2.115"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" x="42.3099735" y="40.2867965" width="55.9639397" height="5.05811681" rx="2.115"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" x="42.3099735" y="51.5797448" width="55.9639397" height="5.05811681" rx="2.115"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" x="42.3099735" y="62.8701841" width="55.9639397" height="5.05811681" rx="2.115"></rect>
+            <path d="M82.9555639,0 L82.9555639,15.6435309 C82.967978,20.2706934 86.7180344,24.0186657 91.34777,24.0310728 L107,24.0310728 L82.9555639,0 Z" id="Path" fill="#C86DD7"></path>
+            <rect id="Rectangle" fill="url(#linearGradient-2)" x="75.69554" y="78.3029601" width="24.0620088" height="16.2908494" rx="4.8975"></rect>
+            <ellipse id="Oval" fill="url(#linearGradient-3)" cx="33.4709195" cy="60.837905" rx="29.8107829" ry="29.7942149"></ellipse>
+            <path d="M33.3554419,60.7174736 L33.3554419,60.8504499 L12.7878845,82.600854 C6.70068162,76.9469744 3.23273053,69.0228175 3.21077822,60.7174736 L33.3554419,60.7174736 Z" id="Path" fill="url(#linearGradient-4)"></path>
+            <path d="M33.3554419,27.4984922 L33.3554419,60.837905 L0,60.837905 C-0.000665827364,51.9959737 3.5132642,43.5159572 9.76869514,37.2635323 C16.0241261,31.0111074 24.5085937,27.4984922 33.3554419,27.4984922 L33.3554419,27.4984922 Z" id="Path" fill="#C86DD7"></path>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

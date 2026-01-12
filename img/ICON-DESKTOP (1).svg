@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="141px" height="95px" viewBox="0 0 141 95" version="1.1">
+  <title>69DD14A0-5DE8-49AF-B854-BA07D311FAA2</title>
+  <g id="v2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="Geek-Support_LP-Biz_Rev-1" transform="translate(-687.000000, -939.000000)">
+      <g id="Group-34" transform="translate(198.000000, 941.000000)">
+        <g id="DESKTOP" transform="translate(486.647872, 0.000000)">
+          <g id="ICON-DESKTOP" transform="translate(4.647872, 0.000000)">
+            <line x1="74.3307692" y1="78.4727273" x2="74.3307692" y2="90.4206084" id="Path-16" stroke="#491D72" stroke-width="3"></line>
+            <line x1="62.3769231" y1="78.4727273" x2="62.3769231" y2="90.4206084" id="Path-16" stroke="#491D72" stroke-width="3"></line>
+            <line x1="1.5" y1="67.5" x2="135.5" y2="67.5" id="Path-15" stroke="#491D72" stroke-width="3"></line>
+            <line x1="44.4461538" y1="91.1545455" x2="92.6020756" y2="91.1545455" id="Path-17" stroke="#491D72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></line>
+            <rect id="Rectangle" stroke="#491D72" stroke-width="3" x="0" y="0" width="137" height="78" rx="6"></rect>
+            <g id="BROWSER" transform="translate(27.000000, 10.000000)">
+              <path d="M0,55 L0,3 C-2.02906125e-16,1.34314575 1.34314575,3.04359188e-16 3,0 L79,0 C80.6568542,-3.04359188e-16 82,1.34314575 82,3 L82,55 L82,55" id="Rectangle" stroke="#17A7A7" stroke-width="3"></path>
+              <line x1="43.0903305" y1="15.9569472" x2="71.0903305" y2="15.9569472" id="Path-38" stroke="#17A7A7" stroke-width="3" fill="#D8D8D8" stroke-linecap="round"></line>
+              <g id="IMG" transform="translate(10.000000, 13.000000)">
+                <rect id="Rectangle" fill="#17A7A7" x="0" y="0" width="28" height="18" rx="3"></rect>
+                <polygon id="Path-39" fill="#FFFFFF" points="5.37692308 15.1743084 10.1194737 9.0203932 12.8058177 12.0973508 18.271865 5.17430842 25.3769231 15.1743084"></polygon>
+                <circle id="Oval" fill="#FFFFFF" cx="8" cy="5" r="2"></circle>
+              </g>
+              <line x1="43.0903305" y1="22.9569472" x2="71.0903305" y2="22.9569472" id="Path-38" stroke="#17A7A7" stroke-width="3" fill="#D8D8D8" stroke-linecap="round"></line>
+              <line x1="43.0903305" y1="29.9569472" x2="71.0903305" y2="29.9569472" id="Path-38" stroke="#17A7A7" stroke-width="3" fill="#D8D8D8" stroke-linecap="round"></line>
+              <line x1="10.5" y1="36.5" x2="71.5" y2="36.5" id="Path-38" stroke="#17A7A7" stroke-width="3" fill="#D8D8D8" stroke-linecap="round"></line>
+              <line x1="10.5" y1="43.5" x2="71.5" y2="43.5" id="Path-38" stroke="#17A7A7" stroke-width="3" fill="#D8D8D8" stroke-linecap="round"></line>
+              <line x1="10.5" y1="50.5" x2="71.5" y2="50.5" id="Path-38" stroke="#17A7A7" stroke-width="3" fill="#D8D8D8" stroke-linecap="round"></line>
+              <line x1="2.5" y1="3.5" x2="79.5" y2="3.5" id="Path-38" stroke="#17A7A7" stroke-width="6" fill="#D8D8D8" stroke-linecap="round"></line>
+              <circle id="Oval" fill="#FFFFFF" cx="3.5" cy="3" r="1.5"></circle>
+              <circle id="Oval-Copy" fill="#FFFFFF" cx="7.5" cy="3" r="1.5"></circle>
+              <circle id="Oval-Copy-2" fill="#FFFFFF" cx="11.5" cy="3" r="1.5"></circle>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

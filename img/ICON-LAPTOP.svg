@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="107px" height="69px" viewBox="0 0 107 69" version="1.1">
+  <title>5CB8AF93-6A3A-4E43-9198-F161C1F38400</title>
+  <g id="v2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="Geek-Support_LP-Biz_Rev-1" transform="translate(-506.000000, -967.000000)">
+      <g id="Group-34" transform="translate(198.000000, 941.000000)">
+        <g id="LAPTOP" transform="translate(293.000000, 28.000000)">
+          <g id="ICON-LAPTOP" transform="translate(16.647872, 0.000000)">
+            <path d="M7,56 L7,6 C7,2.6862915 9.6862915,6.08718376e-16 13,0 L90,0 C93.3137085,-6.08718376e-16 96,2.6862915 96,6 L96,53 C96,54.6568542 94.6568542,56 93,56" id="Rectangle" stroke="#491D72" stroke-width="3"></path>
+            <path d="M0,56 L103.62129,56 L103.62129,58.561608 C103.62129,61.8753165 100.934998,64.561608 97.62129,64.561608 L6,64.561608 C2.6862915,64.561608 4.05812251e-16,61.8753165 0,58.561608 L0,56 L0,56 Z" id="Rectangle" stroke="#491D72" stroke-width="3"></path>
+            <g id="BROWSER" transform="translate(17.000000, 12.000000)">
+              <path d="M0,42 L0,3 C-2.02906125e-16,1.34314575 1.34314575,3.04359188e-16 3,0 L65,0 C66.6568542,-3.04359188e-16 68,1.34314575 68,3 L68,42 L68,42" id="Rectangle" stroke="#17A7A7" stroke-width="3"></path>
+              <line x1="40.0903305" y1="15.9569472" x2="60.0903305" y2="15.9569472" id="Path-38" stroke="#17A7A7" stroke-width="3" fill="#D8D8D8" stroke-linecap="round"></line>
+              <rect id="Rectangle" fill="#17A7A7" x="7" y="13" width="28" height="18" rx="3"></rect>
+              <line x1="40.0903305" y1="22.9569472" x2="60.0903305" y2="22.9569472" id="Path-38" stroke="#17A7A7" stroke-width="3" fill="#D8D8D8" stroke-linecap="round"></line>
+              <line x1="40.0903305" y1="29.9569472" x2="60.0903305" y2="29.9569472" id="Path-38" stroke="#17A7A7" stroke-width="3" fill="#D8D8D8" stroke-linecap="round"></line>
+              <line x1="8.5" y1="36.5" x2="60.5" y2="36.5" id="Path-38" stroke-opacity="0.8" stroke="#17A7A7" stroke-width="3" fill="#D8D8D8" stroke-linecap="round"></line>
+              <line x1="2.5" y1="3.5" x2="65.5" y2="3.5" id="Path-38" stroke="#17A7A7" stroke-width="5" fill="#D8D8D8" stroke-linecap="round"></line>
+              <circle id="Oval" fill="#FFFFFF" cx="3.5" cy="3" r="1.5"></circle>
+              <circle id="Oval-Copy" fill="#FFFFFF" cx="7.5" cy="3" r="1.5"></circle>
+              <circle id="Oval-Copy-2" fill="#FFFFFF" cx="11.5" cy="3" r="1.5"></circle>
+              <polygon id="Path-39" fill="#FFFFFF" points="11.3769231 28.1743084 16.1194737 22.0203932 18.8058177 25.0973508 24.271865 18.1743084 31.3769231 28.1743084"></polygon>
+              <circle id="Oval" fill="#FFFFFF" cx="14" cy="18" r="2"></circle>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="254px" height="99px" viewBox="0 0 254 99" version="1.1">
+  <title>6A6A5049-2A7A-47B2-B3B3-F668346EE38E</title>
+  <g id="r4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="Geek-Support_LP-M_r4_1" transform="translate(-33.000000, -982.000000)">
+      <g id="DEVICES" transform="translate(22.000000, 802.000000)">
+        <g id="ICON-DEVICES-M" transform="translate(12.000000, 178.000000)">
+          <g id="ICON-PRINTER" transform="translate(0.000000, 31.000000)">
+            <path d="M2.98732394,22.3333333 L60.9,22.3333333 C62.059798,22.3333333 63,23.2735354 63,24.4333333 L63,47.0333333 C63,48.1931313 62.059798,49.1333333 60.9,49.1333333 L51.440122,49.1333333 L51.440122,49.1333333 L51.440122,41.7324646 L11.9101681,41.7324646 L11.9101681,49.1333333 L2.98732394,49.1333333 C1.82752597,49.1333333 0.887323944,48.1931313 0.887323944,47.0333333 L0.887323944,24.4333333 C0.887323944,23.2735354 1.82752597,22.3333333 2.98732394,22.3333333 Z" id="Rectangle" stroke="#491D72" stroke-width="2.1" stroke-linejoin="round"></path>
+            <line x1="22.1830986" y1="51.2347246" x2="39.4366197" y2="51.2347246" id="Path-38" stroke="#17A7A7" stroke-width="2.1" fill="#D8D8D8" stroke-linecap="round"></line>
+            <line x1="22.1830986" y1="56.534202" x2="39.4366197" y2="56.534202" id="Path-38" stroke="#17A7A7" stroke-width="2.1" fill="#D8D8D8" stroke-linecap="round"></line>
+            <line x1="22.1830986" y1="61.894202" x2="39.4366197" y2="61.894202" id="Path-38" stroke="#17A7A7" stroke-width="2.1" fill="#D8D8D8" stroke-linecap="round"></line>
+            <rect id="Rectangle" stroke="#491D72" stroke-width="2.1" stroke-linejoin="round" x="18.6338028" y="0" width="26.6197183" height="22.3333333"></rect>
+            <polygon id="Rectangle" stroke="#491D72" stroke-width="2.1" stroke-linejoin="round" points="17.7464789 46.4533333 44.3661972 46.4533333 44.3661972 67 17.7464789 67"></polygon>
+            <line x1="0" y1="31.2666667" x2="62.1126761" y2="31.2969279" id="Path-40" stroke="#491D72" stroke-width="2.1"></line>
+            <ellipse id="Oval" fill="#17A7A7" cx="48.8028169" cy="26.8" rx="1.77464789" ry="1.78666667"></ellipse>
+            <ellipse id="Oval" fill="#17A7A7" cx="53.2394366" cy="26.8" rx="1.77464789" ry="1.78666667"></ellipse>
+            <ellipse id="Oval" fill="#17A7A7" cx="57.6760563" cy="26.8" rx="1.77464789" ry="1.78666667"></ellipse>
+            <polyline id="Path-41" stroke="#491D72" stroke-width="2.1" stroke-linejoin="round" points="18.6338028 10.72 14.3984072 10.72 14.3984072 22.3333333"></polyline>
+            <polyline id="Path-41" stroke="#491D72" stroke-width="2.1" stroke-linejoin="round" transform="translate(47.572443, 16.526667) scale(-1, 1) translate(-47.572443, -16.526667) " points="49.6901408 10.72 45.4547452 10.72 45.4547452 22.3333333"></polyline>
+          </g>
+          <g id="ICON-WIFI" transform="translate(197.000000, 16.000000)">
+            <rect id="Rectangle" stroke="#491D72" stroke-width="2.1" x="0" y="21.0743802" width="43.9738628" height="8.92561983" rx="1.5"></rect>
+            <path d="M0.0261371594,22.058335 L4.54611347,17.5458934 C4.82734576,17.2651299 5.20849733,17.107438 5.60588848,17.107438 L38.5449568,17.107438 C38.9496351,17.107438 39.337145,17.2709492 39.6195005,17.5608456 L44,22.058335 L44,22.058335" id="Path-34" stroke="#491D72" stroke-width="2.1" stroke-linecap="round"></path>
+            <line x1="7.83442384" y1="9.91735537" x2="7.83442384" y2="16.6115702" id="Path-35" stroke="#491D72" stroke-width="2.1" stroke-linecap="round"></line>
+            <ellipse id="Oval" fill="#17A7A7" cx="5.81263704" cy="25.5371901" rx="1.26361675" ry="1.23966942"></ellipse>
+            <ellipse id="Oval-Copy" fill="#17A7A7" cx="9.91939147" cy="25.5371901" rx="1.26361675" ry="1.23966942"></ellipse>
+            <ellipse id="Oval-Copy" fill="#491D72" cx="7.83442384" cy="6.44628099" rx="1.26361675" ry="1.23966942"></ellipse>
+            <line x1="36.139439" y1="9.91735537" x2="36.139439" y2="16.6115702" id="Path-35" stroke="#491D72" stroke-width="2.1" stroke-linecap="round"></line>
+            <ellipse id="Oval-Copy" fill="#491D72" cx="36.139439" cy="6.44628099" rx="1.26361675" ry="1.23966942"></ellipse>
+            <ellipse id="Oval-Copy-2" fill="#17A7A7" cx="14.0261459" cy="25.5371901" rx="1.26361675" ry="1.23966942"></ellipse>
+            <g id="Group-35" transform="translate(14.681730, 0.000000)" stroke="#17A7A7" stroke-linecap="round" stroke-width="2.1">
+              <path d="M14.932299,2.74384645 C12.9697001,1.03662468 10.3872092,0 7.55792458,0 C4.63954612,0 1.98374914,1.10293896 0,2.90711051" id="Oval"></path>
+              <path d="M9.73003654,9.14512249 C9.28909139,8.41975353 8.48134449,7.9338843 7.55792458,7.9338843 C6.63455472,7.9338843 5.82684533,8.41970086 5.38588433,9.14500455" id="Oval"></path>
+              <path d="M12.4441526,6.35112205 C11.2413637,5.03958781 9.49781549,4.21487603 7.55792458,4.21487603 C5.69263033,4.21487603 4.00886879,4.97738032 2.81283215,6.20199949" id="Oval"></path>
+            </g>
+          </g>
+          <g id="ICON-DESKTOP" transform="translate(68.993352, 22.000000)">
+            <line x1="78.0091505" y1="54.8092417" x2="78.0091505" y2="63.154234" id="Path-16" stroke="#491D72" stroke-width="2.1"></line>
+            <line x1="69.6450586" y1="54.8092417" x2="69.6450586" y2="63.154234" id="Path-16" stroke="#491D72" stroke-width="2.1"></line>
+            <line x1="57.0989208" y1="63.666852" x2="90.7935618" y2="63.666852" id="Path-17" stroke="#491D72" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"></line>
+            <rect id="Rectangle" stroke="#491D72" stroke-width="2.1" x="26" y="0" width="95.8587365" height="54.4790655" rx="4.2"></rect>
+            <line x1="27.0495482" y1="47.1453451" x2="120.809188" y2="47.1453451" id="Path-15" stroke="#491D72" stroke-width="2.1"></line>
+            <g id="ICON-TABLET" transform="translate(0.000000, 26.000000)">
+              <line x1="35.7747537" y1="9.90606773" x2="35.7747537" y2="11.254885" id="Path-28" stroke="#491D72" stroke-width="1.944" stroke-linecap="round"></line>
+              <line x1="28.0458797" y1="0.320620496" x2="24.7446581" y2="0.320620496" id="Path-28" stroke="#491D72" stroke-width="1.944" stroke-linecap="round"></line>
+              <line x1="35.7747537" y1="14.4021253" x2="35.7747537" y2="15.7509425" id="Path-28" stroke="#491D72" stroke-width="1.944" stroke-linecap="round"></line>
+              <path d="M-3.04151708,8.13998725 L37.9720127,8.13998725 C40.1192959,8.13998725 41.8600127,9.88070414 41.8600127,12.0279873 L41.8600127,39.1824829 C41.8600127,41.329766 40.1192959,43.0704829 37.9720127,43.0704829 L-3.04151708,43.0704829 C-5.18880019,43.0704829 -6.92951708,41.329766 -6.92951708,39.1824829 L-6.92951708,12.0279873 C-6.92951708,9.88070414 -5.18880019,8.13998725 -3.04151708,8.13998725 Z" id="Rectangle" stroke="#491D72" stroke-width="1.944" fill="#FFFFFF" transform="translate(17.465248, 25.605235) rotate(-270.000000) translate(-17.465248, -25.605235) "></path>
+              <g id="IMG" transform="translate(4.528027, 7.053651)">
+                <rect id="Rectangle" fill="#17A7A7" x="0" y="0" width="25.8744412" height="20.5197117" rx="2.5272"></rect>
+                <line x1="1.91273389" y1="24.6433736" x2="23.9060089" y2="24.6433736" id="Path-38" stroke="#17A7A7" stroke-width="1.944" fill="#D8D8D8" stroke-linecap="round"></line>
+                <line x1="1.91273389" y1="29.1320605" x2="23.9060089" y2="29.1320605" id="Path-38" stroke="#17A7A7" stroke-width="1.944" fill="#D8D8D8" stroke-linecap="round"></line>
+                <line x1="1.91273389" y1="33.6207475" x2="23.9060089" y2="33.6207475" id="Path-38" stroke="#17A7A7" stroke-width="1.944" fill="#D8D8D8" stroke-linecap="round"></line>
+                <polygon id="Path-39" fill="#FFFFFF" points="1.88442703 18.5515842 7.09963809 12.6323701 10.0537132 15.5919772 16.0645273 8.93296931 23.8777021 18.5515842"></polygon>
+                <ellipse id="Oval" fill="#FFFFFF" cx="9.20872971" cy="7.90863889" rx="2.2780758" ry="2.24434347"></ellipse>
+              </g>
+            </g>
+            <g id="BROWSER" transform="translate(44.891868, 6.984496)">
+              <path d="M0,38.4147257 L0,2.1 C-1.42034288e-16,0.940202025 0.940202025,1.10122985e-15 2.1,0 L55.2753021,0 C56.4351001,-2.13051432e-16 57.3753021,0.940202025 57.3753021,2.1 L57.3753021,38.4147257 L57.3753021,38.4147257" id="Rectangle" stroke="#17A7A7" stroke-width="2.1"></path>
+              <line x1="30.1502528" y1="11.1451227" x2="49.7418194" y2="11.1451227" id="Path-38" stroke="#17A7A7" stroke-width="2.1" fill="#D8D8D8" stroke-linecap="round"></line>
+              <g id="IMG" transform="translate(6.996988, 9.079844)">
+                <rect id="Rectangle" fill="#17A7A7" x="0" y="0" width="19.5915666" height="12.572092" rx="2.1"></rect>
+                <polygon id="Path-39" fill="#FFFFFF" points="3.76222666 10.598489 7.08058371 6.30028964 8.96021538 8.44938932 12.7848021 3.61399343 17.7562028 10.598489"></polygon>
+                <ellipse id="Oval" fill="#FFFFFF" cx="5.59759045" cy="3.49224779" rx="1.39939761" ry="1.39689912"></ellipse>
+              </g>
+              <line x1="30.1502528" y1="16.0342696" x2="49.7418194" y2="16.0342696" id="Path-38" stroke="#17A7A7" stroke-width="2.1" fill="#D8D8D8" stroke-linecap="round"></line>
+              <line x1="30.1502528" y1="20.9234165" x2="49.7418194" y2="20.9234165" id="Path-38" stroke="#17A7A7" stroke-width="2.1" fill="#D8D8D8" stroke-linecap="round"></line>
+              <line x1="7.34683747" y1="25.4934089" x2="50.0284647" y2="25.4934089" id="Path-38" stroke="#17A7A7" stroke-width="2.1" fill="#D8D8D8" stroke-linecap="round"></line>
+              <line x1="7.34683747" y1="30.3825558" x2="50.0284647" y2="30.3825558" id="Path-38" stroke="#17A7A7" stroke-width="2.1" fill="#D8D8D8" stroke-linecap="round"></line>
+              <line x1="7.34683747" y1="35.2717027" x2="50.0284647" y2="35.2717027" id="Path-38" stroke="#17A7A7" stroke-width="2.1" fill="#D8D8D8" stroke-linecap="round"></line>
+              <line x1="1.74924702" y1="2.44457345" x2="55.6260551" y2="2.44457345" id="Path-38" stroke="#17A7A7" stroke-width="4.2" fill="#D8D8D8" stroke-linecap="round"></line>
+              <ellipse id="Oval" fill="#FFFFFF" cx="2.44894582" cy="2.09534867" rx="1.04954821" ry="1.04767434"></ellipse>
+              <ellipse id="Oval-Copy" fill="#FFFFFF" cx="5.24774105" cy="2.09534867" rx="1.04954821" ry="1.04767434"></ellipse>
+              <ellipse id="Oval-Copy-2" fill="#FFFFFF" cx="8.04653628" cy="2.09534867" rx="1.04954821" ry="1.04767434"></ellipse>
+            </g>
+          </g>
+          <g id="ICON-MOBILE" transform="translate(229.993352, 54.000000)">
+            <rect id="Rectangle" stroke="#491D72" stroke-width="2.1" fill="#FFFFFF" x="1.22785407" y="0" width="19.6428571" height="34" rx="1.5904"></rect>
+            <line x1="21.8035714" y1="6.97698044" x2="21.8035714" y2="9.79593677" id="Path-28" stroke="#491D72" stroke-width="1.68" stroke-linecap="round"></line>
+            <line x1="0.196428571" y1="6.97698044" x2="0.196428571" y2="8.14939423" id="Path-28" stroke="#491D72" stroke-width="1.68" stroke-linecap="round"></line>
+            <line x1="0.196428571" y1="10.8850264" x2="0.196428571" y2="12.0574402" id="Path-28" stroke="#491D72" stroke-width="1.68" stroke-linecap="round"></line>
+            <g id="IMG" transform="translate(3.948718, 5.016393)">
+              <rect id="Rectangle" fill="#17A7A7" x="0" y="0" width="14.1025641" height="12.5674215" rx="1.5288"></rect>
+              <line x1="1.94182403" y1="15.485715" x2="12.910485" y2="15.485715" id="Path-38" stroke="#17A7A7" stroke-width="1.68" fill="#D8D8D8" stroke-linecap="round"></line>
+              <line x1="1.94182403" y1="18.7922155" x2="12.910485" y2="18.7922155" id="Path-38" stroke="#17A7A7" stroke-width="1.68" fill="#D8D8D8" stroke-linecap="round"></line>
+              <line x1="1.94182403" y1="22.1364778" x2="12.910485" y2="22.1364778" id="Path-38" stroke="#17A7A7" stroke-width="1.68" fill="#D8D8D8" stroke-linecap="round"></line>
+              <polygon id="Path-39" fill="#FFFFFF" points="1.14120566 10.832213 3.92796086 7.40216184 5.50647495 9.1171874 8.71836171 5.25844246 12.8933424 10.832213"></polygon>
+              <ellipse id="Oval" fill="#FFFFFF" cx="4.79331458" cy="4.05822985" rx="1.37959866" ry="1.37456172"></ellipse>
+            </g>
+          </g>
+          <g id="LAPTOP" transform="translate(154.647872, 53.906973)">
+            <path d="M4.89789165,39.1131752 L4.89789165,4.2 C4.89789165,1.88040405 6.7782957,-4.62075557e-16 9.09789165,0 L62.9710854,0 C65.2906814,-4.54653299e-15 67.1710854,1.88040405 67.1710854,4.2 L67.1710854,37.0131752 C67.1710854,38.1729732 66.2308834,39.1131752 65.0710854,39.1131752" id="Rectangle" stroke="#491D72" stroke-width="2.1" fill="#F3FAFA"></path>
+            <path d="M0,39.1131752 L72.503693,39.1131752 L72.503693,40.8930265 C72.503693,43.2126225 70.6232889,45.0930265 68.303693,45.0930265 L4.2,45.0930265 C1.88040405,45.0930265 2.06042541e-15,43.2126225 0,40.8930265 L0,39.1131752 L0,39.1131752 Z" id="Rectangle" stroke="#491D72" stroke-width="2.1"></path>
+            <g id="BROWSER" transform="translate(11.894880, 8.381395)">
+              <path d="M0,29.3348814 L0,2.1 C-1.42034288e-16,0.940202025 0.940202025,-2.31037778e-16 2.1,0 L45.4795189,0 C46.6393168,-2.13051432e-16 47.5795189,0.940202025 47.5795189,2.1 L47.5795189,29.3348814 L47.5795189,29.3348814" id="Rectangle" stroke="#17A7A7" stroke-width="2.1"></path>
+              <line x1="28.0511564" y1="11.1451227" x2="42.0451325" y2="11.1451227" id="Path-38" stroke="#17A7A7" stroke-width="2.1" fill="#D8D8D8" stroke-linecap="round"></line>
+              <rect id="Rectangle" fill="#17A7A7" x="4.89789165" y="9.07984425" width="19.5915666" height="12.572092" rx="2.1"></rect>
+              <line x1="28.0511564" y1="16.0342696" x2="42.0451325" y2="16.0342696" id="Path-38" stroke="#17A7A7" stroke-width="2.1" fill="#D8D8D8" stroke-linecap="round"></line>
+              <line x1="28.0511564" y1="20.9234165" x2="42.0451325" y2="20.9234165" id="Path-38" stroke="#17A7A7" stroke-width="2.1" fill="#D8D8D8" stroke-linecap="round"></line>
+              <line x1="5.94743986" y1="25.4934089" x2="42.3317778" y2="25.4934089" id="Path-38" stroke-opacity="0.8" stroke="#17A7A7" stroke-width="2.1" fill="#D8D8D8" stroke-linecap="round"></line>
+              <line x1="1.74924702" y1="2.44457345" x2="45.8302718" y2="2.44457345" id="Path-38" stroke="#17A7A7" stroke-width="3.5" fill="#D8D8D8" stroke-linecap="round"></line>
+              <ellipse id="Oval" fill="#FFFFFF" cx="2.44894582" cy="2.09534867" rx="1.04954821" ry="1.04767434"></ellipse>
+              <ellipse id="Oval-Copy" fill="#FFFFFF" cx="5.24774105" cy="2.09534867" rx="1.04954821" ry="1.04767434"></ellipse>
+              <ellipse id="Oval-Copy-2" fill="#FFFFFF" cx="8.04653628" cy="2.09534867" rx="1.04954821" ry="1.04767434"></ellipse>
+              <polygon id="Path-39" fill="#FFFFFF" points="7.9604195 19.6783333 11.2787765 15.3801339 13.1584082 17.5292336 16.982995 12.6938377 21.9543956 19.6783333"></polygon>
+              <ellipse id="Oval" fill="#FFFFFF" cx="9.79578329" cy="12.572092" rx="1.39939761" ry="1.39689912"></ellipse>
+            </g>
+          </g>
+          <g id="ICON-NETWORK" transform="translate(54.000000, 0.000000)">
+            <polyline id="Path-42" stroke="#491D72" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" points="21.5982497 32.7795947 8.19604163 45 17.0333604 19.3669547 25.8173711 45 12.4837689 32.7795947"></polyline>
+            <path d="M17.0067063,7.4446081 C22.208288,7.4446081 26.4250031,11.5814158 26.4250031,16.6844267 C26.4250031,19.1878158 25.4041953,21.5345435 23.624532,23.258831 C22.204608,24.6345727 20.3751284,25.539932 18.3822722,25.826283 C17.8842072,25.8978494 17.4213091,25.5597552 17.3483603,25.0711286 C17.2754116,24.582502 17.6200364,24.1283759 18.1181015,24.0568095 C19.7235916,23.8261186 21.1978012,23.0965727 22.3436167,21.9864102 C23.7799431,20.5947765 24.602107,18.70471 24.602107,16.6844267 C24.602107,12.5690953 21.2015303,9.23296009 17.0067063,9.23296009 C12.8118824,9.23296009 9.41130573,12.5690953 9.41130573,16.6844267 C9.41130573,18.398609 10.0019615,20.0217979 11.069794,21.3325753 C11.3840648,21.7183465 11.3200615,22.2810147 10.9268387,22.58933 C10.5336159,22.8976453 9.96007902,22.8348549 9.64580827,22.4490837 C8.32200923,20.8241042 7.58840959,18.8080896 7.58840959,16.6844267 C7.58840959,11.5814158 11.8051247,7.4446081 17.0067063,7.4446081 Z" id="Oval" fill="#17A7A7" fill-rule="nonzero" transform="translate(17.006706, 16.640224) rotate(-20.000000) translate(-17.006706, -16.640224) "></path>
+            <path d="M18.0590197,29.5079432 C21.2391163,29.2975079 24.0939656,27.9580499 26.2175568,25.8899939 C28.5938891,23.5758063 30.0545426,20.3492708 30.0306038,16.7714733 C29.9831144,9.67391635 24.1111789,3.88171191 16.9152687,3.83422258 C9.71935846,3.78673325 3.92441836,9.50194226 3.97190769,16.5994992 C3.99324876,19.7890461 5.19082692,22.7149794 7.15621147,24.974414" id="Oval" stroke="#17A7A7" stroke-width="1.8" stroke-linecap="round" transform="translate(17.001256, 16.670936) rotate(-22.000000) translate(-17.001256, -16.670936) "></path>
+            <ellipse id="Oval" fill="#17A7A7" cx="17.0067063" cy="16.6844267" rx="3.94960832" ry="3.87476266"></ellipse>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

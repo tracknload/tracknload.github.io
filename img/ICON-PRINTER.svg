@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="93px" height="99px" viewBox="0 0 93 99" version="1.1">
+  <title>31C8F30A-D478-430E-B270-5610C6DAED7A</title>
+  <g id="r4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="Geek-Support_LP_r4" transform="translate(-331.000000, -858.000000)">
+      <g id="Group-6" transform="translate(0.000000, 770.000000)">
+        <g id="SUPPORT-DEVICES" transform="translate(183.000000, 31.000000)">
+          <g id="Group-11" transform="translate(0.000000, 59.000000)">
+            <g id="ICON-PRINTER" transform="translate(148.522413, 0.000000)">
+              <path d="M4.26760563,31.6901408 L87,31.6901408 C88.6568542,31.6901408 90,33.0332866 90,34.6901408 L90,66.7183099 C90,68.3751641 88.6568542,69.7183099 87,69.7183099 L73.4858886,69.7183099 L73.4858886,69.7183099 L73.4858886,59.2167619 L17.0145258,59.2167619 L17.0145258,69.7183099 L4.26760563,69.7183099 C2.61075138,69.7183099 1.26760563,68.3751641 1.26760563,66.7183099 L1.26760563,34.6901408 C1.26760563,33.0332866 2.61075138,31.6901408 4.26760563,31.6901408 Z" id="Rectangle" stroke="#491D72" stroke-width="3" stroke-linejoin="round"></path>
+              <line x1="31.6901408" y1="72.7001032" x2="56.3380282" y2="72.7001032" id="Path-38" stroke="#17A7A7" stroke-width="3" fill="#D8D8D8" stroke-linecap="round"></line>
+              <line x1="31.6901408" y1="80.2198578" x2="56.3380282" y2="80.2198578" id="Path-38" stroke="#17A7A7" stroke-width="3" fill="#D8D8D8" stroke-linecap="round"></line>
+              <line x1="31.6901408" y1="87.8254916" x2="56.3380282" y2="87.8254916" id="Path-38" stroke="#17A7A7" stroke-width="3" fill="#D8D8D8" stroke-linecap="round"></line>
+              <rect id="Rectangle" stroke="#491D72" stroke-width="3" stroke-linejoin="round" x="26.6197183" y="0" width="38.028169" height="31.6901408"></rect>
+              <polygon id="Rectangle" stroke="#491D72" stroke-width="3" stroke-linejoin="round" points="25.3521127 65.915493 63.3802817 65.915493 63.3802817 95.0704225 25.3521127 95.0704225"></polygon>
+              <line x1="0" y1="44.3661972" x2="88.7323944" y2="44.4091368" id="Path-40" stroke="#491D72" stroke-width="3"></line>
+              <circle id="Oval" fill="#17A7A7" cx="69.7183099" cy="38.028169" r="2.53521127"></circle>
+              <circle id="Oval" fill="#17A7A7" cx="76.056338" cy="38.028169" r="2.53521127"></circle>
+              <circle id="Oval" fill="#17A7A7" cx="82.3943662" cy="38.028169" r="2.53521127"></circle>
+              <polyline id="Path-41" stroke="#491D72" stroke-width="3" stroke-linejoin="round" points="26.6197183 15.2112676 20.5691531 15.2112676 20.5691531 31.6901408"></polyline>
+              <polyline id="Path-41" stroke="#491D72" stroke-width="3" stroke-linejoin="round" transform="translate(67.960633, 23.450704) scale(-1, 1) translate(-67.960633, -23.450704) " points="70.9859155 15.2112676 64.9353503 15.2112676 64.9353503 31.6901408"></polyline>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

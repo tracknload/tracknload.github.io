@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="59px" height="81px" viewBox="0 0 59 81" version="1.1">
+  <title>298FA70F-56B6-4254-BF5A-5F4976A36DE6</title>
+  <g id="v2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="Geek-Support_LP-Biz_Rev-1" transform="translate(-895.000000, -954.000000)">
+      <g id="Group-34" transform="translate(198.000000, 941.000000)">
+        <g id="ICON-TABLET" transform="translate(698.690925, 14.069248)">
+          <line x1="55.3051614" y1="15.4482759" x2="55.3051614" y2="17.5517241" id="Path-28" stroke="#491D72" stroke-width="3" stroke-linecap="round"></line>
+          <line x1="43.3568856" y1="0.5" x2="38.2534376" y2="0.5" id="Path-28" stroke="#491D72" stroke-width="3" stroke-linecap="round"></line>
+          <line x1="55.3051614" y1="22.4597701" x2="55.3051614" y2="24.5632184" id="Path-28" stroke="#491D72" stroke-width="3" stroke-linecap="round"></line>
+          <rect id="Rectangle" stroke="#491D72" stroke-width="3" transform="translate(27.000000, 39.930752) rotate(-270.000000) translate(-27.000000, -39.930752) " x="-11.0430528" y="12.9307521" width="76.0861057" height="54" rx="6"></rect>
+          <g id="IMG" transform="translate(7.000000, 11.000000)">
+            <rect id="Rectangle" fill="#17A7A7" x="0" y="0" width="40" height="32" rx="3.9"></rect>
+            <line x1="2.95694716" y1="38.4307521" x2="36.9569472" y2="38.4307521" id="Path-38" stroke="#17A7A7" stroke-width="3" fill="#D8D8D8" stroke-linecap="round"></line>
+            <line x1="2.95694716" y1="45.4307521" x2="36.9569472" y2="45.4307521" id="Path-38" stroke="#17A7A7" stroke-width="3" fill="#D8D8D8" stroke-linecap="round"></line>
+            <line x1="2.95694716" y1="52.4307521" x2="36.9569472" y2="52.4307521" id="Path-38" stroke="#17A7A7" stroke-width="3" fill="#D8D8D8" stroke-linecap="round"></line>
+            <polygon id="Path-39" fill="#FFFFFF" points="2.91318681 28.9307521 10.975523 19.6998793 15.5423077 24.3153157 24.8345881 13.9307521 36.9131868 28.9307521"></polygon>
+            <ellipse id="Oval" fill="#FFFFFF" cx="14.2360248" cy="12.3333333" rx="3.52173913" ry="3.5"></ellipse>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
